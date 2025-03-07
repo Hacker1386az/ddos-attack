@@ -36,18 +36,19 @@ except: # altrimenti, se fallisce l'importazione
 print('''
 
 
-  hh   hh  i ii  bbbbbbb  eeeeeee  rrrrrrrr  nn     nnn  eeeeeee  ttttttttt
-  hh   hh  iii  bb   bb  eeeeeee  rr    rr  nnn    nnn  eeeeeee     ttt
-  hh   hh  iii  bb   bb  ee       rr    rr  nnnn   nnn  ee          ttt
-  hh   hh  iii  bbbbbbb  ee       rrrrrrrr  nnnnnnnnnn  ee          ttt
-  hhhhhhh  iii  bb       eeeeeee  rrrr      nnnnnnnnnn  eeeeeee     ttt
-  hh   hh  iii  bbbbbbb  ee       rr rr     nnnnnnnnnn  ee          ttt
-  hh   hh  iii  bb   bb  ee       rr  rr    nn  nnnnnn  ee          ttt
-  hh   hh  iii  bb   bb  eeeeeee  rr   rr   nnn  nnnnn  eeeeeee     ttt
-  hh   hh  iii  bbbbbbb  eeeeeee  rr    rr  nnnn  nnnn  eeeeeee     ttt
+                       
+   iiiii        iiiii   hh     hh   iiiii        iiiii    dbdbdbdbdb
+   ii  ii      ii  ii   hh     hh   ii  ii      ii  ii    db       bb
+   ii   ii    ii   ii   hh     hh   ii   ii    ii   ii    db        db
+   ii    ii  ii    ii   hhhhhhhhh   ii    ii  ii    ii    db        db
+   ii     iiii     ii   hh     hh   ii     iiii     ii    db        db
+   ii              ii   hh     hh   ii              ii    db        db
+   ii              ii   hh     hh   ii              ii    db       db
+   ii              ii   hh     hh   ii              ii    dbdbdbdbdb
 
 
-							C0d3d by Hardy 
+
+							mhmd-error
 	''') # la grafica ci sta
                                                                                             
 FIFTEEN_MINUTES = 900
